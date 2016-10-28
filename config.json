@@ -1,0 +1,39 @@
+{
+    "location": "Hartford",
+    "metric": false,
+    "meridiem": true,
+    "searchEngine": "https://duckduckgo.com/?q=",
+    "colors": [
+        "#E37073",
+        "#DC8C6C",
+        "#E5C078",
+        "#ECE389",
+        "#95B47B",
+        "#9CCC9C",
+        "#8CD0D3",
+        "#89AEE0",
+        "#8C8CBC",
+        "#BC8CBC"
+    ],
+    "websites": [
+        ["google","https://encrypted.google.com"],
+        ["drive","https://drive.google.com"],
+        ["docs","https://docs.google.com"],
+        ["slides","https://slides.google.com"],
+        ["sheets","https://sheets.google.com"],
+        ["photos","https://photos.google.com"],
+        ["translate","https://translate.google.com"],
+        ["images","https://images.google.com"],
+        ["twitch","https://twitch.tv/directory"],
+        ["youtube","https://youtube.com/feed/subscriptions"],
+        ["netflix","https://netflix.com"],
+        ["8tracks","https://8tracks.com"],
+        ["reddit","https://reddit.com"],
+        ["4chan","https://4chan.org"],
+        ["slack","https://slack.com/signin"],
+        ["github","https://github.com"],
+        ["kuler","https://color.adobe.com/create/color-wheel"],
+        ["localhost","http://localhost:3000"],
+        ["wikipedia","https://en.wikipedia.org/wiki/Main_Page"]
+    ]
+}
