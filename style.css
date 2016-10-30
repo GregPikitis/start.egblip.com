@@ -16,7 +16,7 @@ body {
         margin: 25vh auto 4vh;
         width: 100%;
         font-family: Roboto;
-        font-size: 5.5rem;
+        font-size: 5.5rem;		
     }
     #input,
     .prediction {
