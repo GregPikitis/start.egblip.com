@@ -8,7 +8,16 @@
     <script async src="script.js"></script>
 </head>
 <body>
+<?php
+if ($_GET['run']) {
+  # This code will run if ?run=true is set.
+  shell_exec("/var/www/updatestartpage");
+}
+?>
 
+
+<!— This link will add ?run=true to your URL, myfilename.php?run=true —>
+<a href="?run=true">Refresh</a>
 
     <div class="section">
       <div class="list left1">
