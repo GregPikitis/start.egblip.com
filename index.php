@@ -17,7 +17,7 @@ if ($_GET['run']) {
 
 
 <!— This link will add ?run=true to your URL, myfilename.php?run=true —>
-<a href="?run=true"; style="color:#4c4c4c;text-align:left;">Refresh</a>
+<a href="?run=true"; style="color:#4c4c4c;">Refresh</a>
 
     <div class="section">
       <div class="list left1">
@@ -27,6 +27,9 @@ if ($_GET['run']) {
            <li><a href="https://drive.google.com/drive/folders/0B79vVmLS8AbxR1hKR08zMXBuYWs">Drive</a>
            <li><a href="https://trello.com/">Trello</a>
 		   <li><a href="https://www.amazon.com/gp/css/order-history?ie=UTF8&ref_=nav_youraccount_orders&">Amazon</a>
+		   <li></li>
+		   <li></li>
+		   <li></li>
         </ul>
       </div>
       <div class="list left2">
@@ -57,6 +60,8 @@ if ($_GET['run']) {
            <li><a href="http://patorjk.com/games/snake/">Snake</a>
            <li><a href="http://agar.io/">Agar</a>
            <li><a href="http://slither.io/">Slither</a>
+		   <li></li>
+		   <li></li>
         </ul>
       </div>
     </div>
