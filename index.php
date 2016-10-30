@@ -23,43 +23,43 @@ if ($_GET['run']) {
       <div class="list left1">
         <h1 id="sidebarLeft1">Everyday</h1>
         <ul>
-		   <li><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a>
-           <li><a href="https://drive.google.com/drive/folders/0B79vVmLS8AbxR1hKR08zMXBuYWs">Drive</a>
-           <li><a href="https://trello.com/">Trello</a>
-		   <li><a href="https://www.amazon.com/gp/css/order-history?ie=UTF8&ref_=nav_youraccount_orders&">Amazon</a>
-		   <li></li>
-		   <li></li>
-		   <li></li>
+		   <li><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></li>
+           <li><a href="https://drive.google.com/drive/folders/0B79vVmLS8AbxR1hKR08zMXBuYWs">Drive</a></li>
+           <li><a href="https://trello.com/">Trello</a></li>
+		   <li><a href="https://www.amazon.com/gp/css/order-history?ie=UTF8&ref_=nav_youraccount_orders&">Amazon</a></li>
+		   <li><a href="https://github.com/">GitHub</a></li>
         </ul>
       </div>
       <div class="list left2">
         <h1 id="sidebarLeft2">School</h1>
         <ul>
-           <li><a href="http://www.pathwaystotechnology.com/groups.cfm?groupDashboardView=calendar">Pathways Portal</a>
-           <li><a href="http://www.pathwaystotechnology.com/page.cfm?p=1">Pathways</a>
-           <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a>
-           <li><a href="https://connection.naviance.com/family-connection/auth/login/?hsid=hphspatd">Naviance</a>
-           <li><a href="https://hs.studyisland.com/index.cfm?">Study Island</a>
-		   <li><a href="https://www.desmos.com/calculator">Desmos</a>
-		   <li><a href="https://www.symbolab.com/">Symbolab</a>
+           <li><a href="http://www.pathwaystotechnology.com/groups.cfm?groupDashboardView=calendar">Pathways Portal</a></li>
+           <li><a href="http://www.pathwaystotechnology.com/page.cfm?p=1">Pathways</a></li>
+           <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a></li>
+           <li><a href="https://connection.naviance.com/family-connection/auth/login/?hsid=hphspatd">Naviance</a></li>
+           <li><a href="https://hs.studyisland.com/index.cfm?">Study Island</a></li>
+		   <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
+		   <li><a href="https://www.symbolab.com/">Symbolab</a></li>
         </ul>
       </div>
       <div class="list right1">
         <h1 id="sidebarRight1">Media and Distractions</h1>
         <ul>
-           <li><a href="https://netflix.com/">Netflix</a>
-           <li><a href="https://emby.hbh7.com/web/home.html">Hunterflix</a>
-           <li><a href="https://kissanime.to/">KissAnime</a>
-           <li><a href="http://kisscartoon.me/">KissCartoon</a>
-           <li><a href="http://www.reddit.com/">Reddit</a>
+           <li><a href="https://netflix.com/">Netflix</a></li>
+           <li><a href="https://emby.hbh7.com/web/home.html">Hunterflix</a></li>
+           <li><a href="https://kissanime.to/">KissAnime</a></li>
+           <li><a href="http://kisscartoon.me/">KissCartoon</a></li>
+           <li><a href="http://www.reddit.com/">Reddit</a></li>
         </ul>
       </div>
       <div class="list right2">
         <h1 id="sidebarRight2">Gaymes or Whatever Assorted. I wonder what happens when I fill this up</h1>
         <ul>
-           <li><a href="http://patorjk.com/games/snake/">Snake</a>
-           <li><a href="http://agar.io/">Agar</a>
-           <li><a href="http://slither.io/">Slither</a>
+           <li><a href="http://patorjk.com/games/snake/">Snake</a></li>
+           <li><a href="http://agar.io/">Agar</a></li>
+           <li><a href="http://slither.io/">Slither</a></li>
+		   <li></li>
+		   <li></li>
 		   <li></li>
 		   <li></li>
         </ul>
