@@ -17,7 +17,7 @@ if ($_GET['run']) {
 
 
 <!— This link will add ?run=true to your URL, myfilename.php?run=true —>
-<a href="?run=true"; color="4c4c4c"; align="left">Refresh</a>
+<a href="?run=true"; style="color:4c4c4c;align:left;">Refresh</a>
 
     <div class="section">
       <div class="list left1">
