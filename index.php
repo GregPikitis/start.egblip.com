@@ -53,7 +53,7 @@ if ($_GET['run']) {
         </ul>
       </div>
       <div class="list right2">
-        <h1 id="sidebarRight2">Gaymes or Whatever Assorted. I wonder what happens when I fill this up</h1>
+        <h1 id="sidebarRight2">¯\_(ツ)_/¯</h1>
         <ul>
            <li><a href="http://patorjk.com/games/snake/">Snake</a></li>
            <li><a href="http://agar.io/">Agar</a></li>
