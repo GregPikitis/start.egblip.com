@@ -206,7 +206,7 @@ a {
 }
 .list ul li {
     background: #444;
-    height: 40px;
+    height: 60px;
     color: #eee;
     line-height: 40px;
     transition: background ease-in-out .1s
