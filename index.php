@@ -17,14 +17,16 @@ if ($_GET['run']) {
 
 
 <!— This link will add ?run=true to your URL, myfilename.php?run=true —>
-<a href="?run=true"; style="color:#4c4c4c;">Refresh</a>
+<p style="text-align: left; margin: 0px"> 
+<a href="?run=true" ;="" style="color:#4c4c4c;text-align:left;">Refresh</a>
+</p>
 
     <div class="section">
       <div class="list left1">
         <h1 id="sidebarLeft1">Everyday</h1>
         <ul>
 		   <li><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></li>
-           <li><a href="https://drive.google.com/">Drive</a></li>
+           <li><a href="https://drive.google.com/drive/folders/0B79vVmLS8AbxR1hKR08zMXBuYWs">Drive</a></li>
            <li><a href="https://trello.com/">Trello</a></li>
 		   <li><a href="https://www.amazon.com/gp/css/order-history?ie=UTF8&ref_=nav_youraccount_orders&">Amazon</a></li>
 		   <li><a href="https://github.com/">GitHub</a></li>
