@@ -54,6 +54,8 @@ if ($_GET['run']) {
            <li><a href="https://kissanime.to/">KissAnime</a></li>
            <li><a href="http://kisscartoon.me/">KissCartoon</a></li>
            <li><a href="http://www.reddit.com/">Reddit</a></li>
+		   <li></li>
+		   <li></li>
         </ul>
       </div>
       <div class="list right2">
