@@ -30,6 +30,8 @@ if ($_GET['run']) {
            <li><a href="https://trello.com/">Trello</a></li>
 		   <li><a href="https://www.amazon.com/gp/css/order-history?ie=UTF8&ref_=nav_youraccount_orders&">Amazon</a></li>
 		   <li><a href="https://github.com/">GitHub</a></li>
+		   <li><a href="https://www.paypal.com/myaccount/home">PayPal</a></li>
+		   <li><a href="https://www.mylibertyonline.com/tob/live/usp-core/app/home">Liberty</a></li>
         </ul>
       </div>
       <div class="list left2">
@@ -38,11 +40,10 @@ if ($_GET['run']) {
            <li><a href="http://www.pathwaystotechnology.com/groups.cfm?groupDashboardView=calendar">Pathways Portal</a></li>
            <li><a href="http://www.pathwaystotechnology.com/page.cfm?p=1">Pathways</a></li>
            <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a></li>
-           <li><a href="https://connection.naviance.com/family-connection/auth/login/?hsid=hphspatd">Naviance</a></li>
            <li><a href="https://hs.studyisland.com/index.cfm?">Study Island</a></li>
 		   <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
 		   <li><a href="https://www.symbolab.com/">Symbolab</a></li>
-		   <li><a href="bb.goodwin.edu">Blackboard</a></li>
+		   <li><a href="https://bb.goodwin.edu">Blackboard</a></li>
         </ul>
       </div>
       <div class="list right1">
