@@ -12,6 +12,7 @@
 if ($_GET['run']) {
   # This code will run if ?run=true is set.
   shell_exec("/var/www/updatestartpage");
+  header("Refresh:0");
 }
 ?>
 
