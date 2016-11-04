@@ -64,7 +64,7 @@ if ($_GET['run']) {
            <li><a href="http://patorjk.com/games/snake/">Snake</a></li>
            <li><a href="http://agar.io/">Agar</a></li>
            <li><a href="http://slither.io/">Slither</a></li>
-		   <li></li>
+		   <li><a hred="http://2048game.com/">2048</a></li>
 		   <li></li>
 		   <li></li>
 		   <li></li>
