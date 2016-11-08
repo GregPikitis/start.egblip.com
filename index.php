@@ -69,7 +69,6 @@ if ($_GET['run']) {
 		   <li></li>
 		   <li></li>
 		   <li></li>
-		   <li></li>
         </ul>
       </div>
     </div>
