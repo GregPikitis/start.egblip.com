@@ -12,7 +12,8 @@
 if ($_GET['run']) {
   # This code will run if ?run=true is set.
   shell_exec("/var/www/updatestartpage");
-  header("Refresh:0");
+  sleep(5)
+  header("Location: index.php");
 }
 ?>
 
@@ -65,8 +66,8 @@ if ($_GET['run']) {
            <li><a href="http://patorjk.com/games/snake/">Snake</a></li>
            <li><a href="http://agar.io/">Agar</a></li>
            <li><a href="http://slither.io/">Slither</a></li>
-		   <li><a hred="http://2048game.com/">2048</a></li>
-		   <li></li>
+		   <li><a href="http://2048game.com/">2048</a></li>
+		<li><a href="https://www.donaldjtrump.com/splash/road-to-270/">TRUMP</a></li>
 		   <li></li>
 		   <li></li>
         </ul>
