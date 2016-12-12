@@ -53,7 +53,7 @@ if ($_GET['run']) {
         <h1 id="sidebarRight1">Media and Distractions</h1>
         <ul>
            <li><a href="https://netflix.com/">Netflix</a></li>
-           <li><a href="https://emby.hbh7.com/web/home.html">Hunterflix</a></li>
+           <li><a href="https://plex.hbh7.com">Hunterflix</a></li>
            <li><a href="https://kissanime.to/">KissAnime</a></li>
            <li><a href="http://kisscartoon.me/">KissCartoon</a></li>
            <li><a href="http://www.reddit.com/">Reddit</a></li>
