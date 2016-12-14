@@ -53,7 +53,7 @@ if ($_GET['run']) {
         <h1 id="sidebarRight1">Media and Distractions</h1>
         <ul>
            <li><a href="https://netflix.com/">Netflix</a></li>
-           <li><a href="https://plex.hbh7.com">Hunterflix</a></li>
+           <li>Hunterflix - <a href="emby.hbh7.com">Emby </a><a href="plex.hbh7.com"></a>Plex</li>
            <li><a href="https://kissanime.to/">KissAnime</a></li>
            <li><a href="http://kisscartoon.me/">KissCartoon</a></li>
            <li><a href="http://www.reddit.com/">Reddit</a></li>
@@ -68,7 +68,7 @@ if ($_GET['run']) {
            <li><a href="http://agar.io/">Agar</a></li>
            <li><a href="http://slither.io/">Slither</a></li>
 		   <li><a href="http://2048game.com/">2048</a></li>
-		   <li><a href="https://sites.google.com/site/subgfyfs/tetris">Tetris</a></li>
+		   <li><a href="https://d28c483e-a-62cb3a1a-s-sites.googlegroups.com/site/subgfyfs/tetris/flash-tetris.swf?attachauth=ANoY7cpwlLNrGFzt6IHDJeokqKRRVhHcDLm1S98rwevJL-elUHp7ypSIuu_AKs2gqF6095Win3Mz0kSIDgwcVYZgJ_nl1RrDkSvXlPAusEZbmsUfjxm847ALJNIkQeAjYpYB3LuW-fQ31YKl_pEAlmrvmOBar6t4EOBjUwmSCmMfrVIrd4eMF3lyONiOp_HheLdePFq5J3crXCD9HJ5qbijkJSy5HQHQRSfTkyJcNCudeSjMN_J5_eM%3D&attredirects=0">Tetris</a></li>
 		   <li></li>
 		   <li></li>
         </ul>
