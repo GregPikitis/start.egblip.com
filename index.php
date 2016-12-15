@@ -72,7 +72,7 @@ if ($_GET['run']) {
            <li><a href="http://agar.io/">Agar</a></li>
            <li><a href="http://slither.io/">Slither</a></li>
 		   <li><a href="http://2048game.com/">2048</a></li>
-		   <li><a href="https://d28c483e-a-62cb3a1a-s-sites.googlegroups.com/site/subgfyfs/tetris/flash-tetris.swf?attachauth=ANoY7cpwlLNrGFzt6IHDJeokqKRRVhHcDLm1S98rwevJL-elUHp7ypSIuu_AKs2gqF6095Win3Mz0kSIDgwcVYZgJ_nl1RrDkSvXlPAusEZbmsUfjxm847ALJNIkQeAjYpYB3LuW-fQ31YKl_pEAlmrvmOBar6t4EOBjUwmSCmMfrVIrd4eMF3lyONiOp_HheLdePFq5J3crXCD9HJ5qbijkJSy5HQHQRSfTkyJcNCudeSjMN_J5_eM%3D&attredirects=0">Tetris</a></li>
+		   <li><a href="https://d28c483e-a-62cb3a1a-s-sites.googlegroups.com/site/subgfyfs/tetris/flash-tetris.swf?attachauth=ANoY7crch3Q2_6OqHcyKgZDHp3EE1yA6qIqeh7DYlwISWeUMHYpTqSqEv5m3FZUELOspGsHFpJPXqxlHMtEGtwctM_zrw7fy_OquEVCdPVbKXRwePF-jN_O0ezpoC5SggA8aXZ_K37ep_nInA9rcID5tKlN6GWI0afCfus2Yg6YlZEpOFtb0GYV_DqwOgcI7SlCNwqLaf3wzEy2riuq3j2zytuTLczzBVOjchgaoX7-_p7oCA3Yn1mA%3D&attredirects=0">Tetris</a></li>
 		   <li></li>
 		   <li></li>
         </ul>
