@@ -53,15 +53,11 @@ if ($_GET['run']) {
         <h1 id="sidebarRight1">Media and Distractions</h1>
         <ul>
            <li><a href="https://netflix.com/">Netflix</a></li>
-<<<<<<< HEAD
-           <li>Hunterflix<a href="emby.hbh7.com">[Emby]</a><a href="plex.hbh7.com"></a>[Plex]</li>
-=======
-           <li><a href="https://emby.hbh7.com/web/home.html">Hunterflix</a></li>
->>>>>>> parent of 7180ecf... Changed from Emby to Plex
+           <li><a href="https://emby.hbh7.com">Hunterflix Emby</a></li>
+           <li><a href="https://plex.hbh7.com">Hunterflix Plex</a></li>
            <li><a href="https://kissanime.to/">KissAnime</a></li>
            <li><a href="http://kisscartoon.me/">KissCartoon</a></li>
            <li><a href="http://www.reddit.com/">Reddit</a></li>
-		   <li></li>
 		   <li></li>
         </ul>
       </div>
