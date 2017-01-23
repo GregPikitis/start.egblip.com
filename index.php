@@ -81,7 +81,7 @@ if ($_GET['run']) {
 
 
     <input id="input" autofocus>
-    <div id="search" contenteditable="true" spellcheck="true">
+    <div id="search">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
             <path d="M550,520a310,310,0,0,0,80-210C630,140,500,0,320,0S10,140,10,310,150,620,320,620a310,310,0,0,0,190-60L740,790s20,20,40,0,0-40,0-40L550,520h0ZM70,310C70,170,180,60,320,60S580,170,580,310q0,0,0,2A250,250,0,0,1,70,310"/>
         </svg>
