@@ -20,7 +20,7 @@ if ($_GET['run']) {
 
 
 <!— This link will add ?run=true to your URL, myfilename.php?run=true —>
-<p style="text-align: left; margin: 0px"> 
+<p style="text-align: left; margin: 0px">
 <a href="?run=true" ;="" style="color:#4c4c4c;text-align:left;">Refresh</a>
 </p>
 
@@ -28,10 +28,8 @@ if ($_GET['run']) {
       <div class="list left1">
         <h1 id="sidebarLeft1">Everyday</h1>
         <ul>
-		   <li><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></li>
-           <li><a href="https://drive.google.com/drive/folders/0B79vVmLS8AbxR1hKR08zMXBuYWs">Drive</a></li>
-           <li><a href="https://trello.com/">Trello</a></li>
-		   <li><a href="https://www.amazon.com/gp/css/order-history?ie=UTF8&ref_=nav_youraccount_orders&">Amazon</a></li>
+		        <li><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></li>
+            <li><a href="https://drive.google.com/drive/my-drive">Drive</a></li>
 		   <li><a href="https://github.com/">GitHub</a></li>
 		   <li><a href="https://www.paypal.com/myaccount/home">PayPal</a></li>
 		   <li><a href="https://www.mylibertyonline.com/tob/live/usp-core/app/home">Liberty</a></li>
@@ -40,39 +38,35 @@ if ($_GET['run']) {
       <div class="list left2">
         <h1 id="sidebarLeft2">School</h1>
         <ul>
-           <li><a href="http://www.pathwaystotechnology.com/groups.cfm?groupDashboardView=calendar">Pathways Portal</a></li>
-           <li><a href="http://www.pathwaystotechnology.com/page.cfm?p=1">Pathways</a></li>
-           <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a></li>
-           <li><a href="https://hs.studyisland.com/index.cfm?">Study Island</a></li>
-		   <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
-		   <li><a href="https://www.symbolab.com/">Symbolab</a></li>
-		   <li><a href="https://bb.goodwin.edu">Blackboard</a></li>
-		   <li><a href="https://school.hbh7.com/apcalc.pdf">AP Calc Book</a></li>
+          <li><a href="http://www.pathwaystotechnology.com/groups.cfm?groupDashboardView=calendar">Pathways Portal</a></li>
+          <li><a href="http://www.pathwaystotechnology.com/page.cfm?p=1">Pathways</a></li>
+          <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a></li>
+		      <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
+		      <li><a href="https://www.symbolab.com/">Symbolab</a></li>
+		      <li><a href="https://bb.goodwin.edu">Blackboard</a></li>
+		      <li><a href="https://school.hbh7.com/apcalc.pdf">AP Calc Book</a></li>
         </ul>
       </div>
       <div class="list right1">
         <h1 id="sidebarRight1">Media and Distractions</h1>
         <ul>
-           <li><a href="https://netflix.com/">Netflix</a></li>
-           <li><a href="https://emby.hbh7.com">Hunterflix Emby</a></li>
-           <li><a href="https://plex.hbh7.com">Hunterflix Plex</a></li>
-           <li><a href="https://kissanime.to/">KissAnime</a></li>
-           <li><a href="http://kisscartoon.me/">KissCartoon</a></li>
-           <li><a href="http://www.reddit.com/">Reddit</a></li>
-		   <li></li>
+          <li><a href="https://netflix.com/">Netflix</a></li>
+          <li><a href="https://plex.hbh7.com">Hunterflix</a></li>
+          <li><a href="http://www.reddit.com/">Reddit</a></li>
+          <li></li>
+		      <li></li>
         </ul>
       </div>
       <div class="list right2">
         <h1 id="sidebarRight2" style="height: 24px">¯\_(ツ)_/¯</h1>
         <ul>
-           <li><a href="http://patorjk.com/games/snake/">Snake</a></li>
-           <li><a href="http://agar.io/">Agar</a></li>
-           <li><a href="http://slither.io/">Slither</a></li>
-		   <li><a href="http://2048game.com/">2048</a></li>
-		   <li><a href="https://d28c483e-a-62cb3a1a-s-sites.googlegroups.com/site/subgfyfs/tetris/flash-tetris.swf?attachauth=ANoY7crch3Q2_6OqHcyKgZDHp3EE1yA6qIqeh7DYlwISWeUMHYpTqSqEv5m3FZUELOspGsHFpJPXqxlHMtEGtwctM_zrw7fy_OquEVCdPVbKXRwePF-jN_O0ezpoC5SggA8aXZ_K37ep_nInA9rcID5tKlN6GWI0afCfus2Yg6YlZEpOFtb0GYV_DqwOgcI7SlCNwqLaf3wzEy2riuq3j2zytuTLczzBVOjchgaoX7-_p7oCA3Yn1mA%3D&attredirects=0">Tetris</a></li>
-		   <li></li>
-		   <li></li>
-		   <li></li>
+          <li><a href="http://patorjk.com/games/snake/">Snake</a></li>
+          <li><a href="http://agar.io/">Agar</a></li>
+          <li><a href="http://slither.io/">Slither</a></li>
+  		    <li><a href="http://2048game.com/">2048</a></li>
+  		    <li><a href="https://d28c483e-a-62cb3a1a-s-sites.googlegroups.com/site/subgfyfs/tetris/flash-tetris.swf?attachauth=ANoY7crch3Q2_6OqHcyKgZDHp3EE1yA6qIqeh7DYlwISWeUMHYpTqSqEv5m3FZUELOspGsHFpJPXqxlHMtEGtwctM_zrw7fy_OquEVCdPVbKXRwePF-jN_O0ezpoC5SggA8aXZ_K37ep_nInA9rcID5tKlN6GWI0afCfus2Yg6YlZEpOFtb0GYV_DqwOgcI7SlCNwqLaf3wzEy2riuq3j2zytuTLczzBVOjchgaoX7-_p7oCA3Yn1mA%3D&attredirects=0">Tetris</a></li>
+  		    <li></li>
+  		    <li></li>
         </ul>
       </div>
     </div>
