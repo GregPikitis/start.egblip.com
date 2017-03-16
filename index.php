@@ -43,7 +43,7 @@ if ($_GET['run']) {
           <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a></li>
 		      <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
 		      <li><a href="https://www.symbolab.com/">Symbolab</a></li>
-		      <li><a href="https://bb.goodwin.edu">Blackboard</a></li>
+		      <li><a href="https://outlook.office.com/owa/">Outlook Online</a></li>
 		      <li><a href="https://school.hbh7.com/apcalc.pdf">AP Calc Book</a></li>
         </ul>
       </div>
