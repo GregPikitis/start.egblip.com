@@ -36,7 +36,7 @@ if ($_GET['run']) {
         </ul>
       </div>
       <div class="list left2">
-        <h1 id="sidebarLeft2">School</h1>
+        <h1 id="sidebarLeft2">THIS IS A TEST</h1>
         <ul>
           <li><a href="http://www.pathwaystotechnology.com/groups.cfm?groupDashboardView=calendar">Pathways Portal</a></li>
           <li><a href="http://www.pathwaystotechnology.com/page.cfm?p=1">Pathways</a></li>
