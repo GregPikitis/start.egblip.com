@@ -43,7 +43,6 @@ if ($_GET['run']) {
           <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a></li>
 		      <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
 		      <li><a href="https://www.symbolab.com/">Symbolab</a></li>
-		      <li><a href="https://outlook.office.com/owa/">Outlook Online</a></li>
 		      <li><a href="https://school.hbh7.com/apcalc.pdf">AP Calc Book</a></li>
 		      <li><a href="http://www.phschool.com/atschool/realidades/pdfs/repaso/LB_Capitulo_8A.pdf">Spanish Book</a></li>
         </ul>
@@ -66,7 +65,6 @@ if ($_GET['run']) {
           <li><a href="http://slither.io/">Slither</a></li>
   		    <li><a href="http://2048game.com/">2048</a></li>
   		    <li><a href="https://hbh7.com/tetris">Tetris</a></li>
-  		    <li></li>
   		    <li></li>
 		    <li></li>
         </ul>
