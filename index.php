@@ -37,11 +37,11 @@ if ($_GET['run']) {
       <div class="list left1">
         <h1 id="sidebarLeft1">Everyday</h1>
         <ul>
-		        <li><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></li>
-            <li><a href="https://drive.google.com/drive/my-drive">Drive</a></li>
-		   <li><a href="https://github.com/">GitHub</a></li>
-		   <li><a href="https://www.paypal.com/myaccount/home">PayPal</a></li>
-		   <li><a href="https://www.mylibertyonline.com/tob/live/usp-core/app/home">Liberty</a></li>
+		<li><a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a></li>
+            	<li><a href="https://drive.google.com/drive/my-drive">Drive</a></li>
+		<li><a href="https://github.com/">GitHub</a></li>
+		<li><a href="https://www.paypal.com/myaccount/home">PayPal</a></li>
+		<li><a href="https://www.mylibertyonline.com/tob/live/usp-core/app/home">Liberty</a></li>
         </ul>
       </div>
       <div class="list left2">
@@ -50,10 +50,10 @@ if ($_GET['run']) {
           <li><a href="http://www.pathwaystotechnology.com/groups.cfm?groupDashboardView=calendar">Pathways Portal</a></li>
           <li><a href="http://www.pathwaystotechnology.com/page.cfm?p=1">Pathways</a></li>
           <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a></li>
-		      <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
-		      <li><a href="https://www.symbolab.com/">Symbolab</a></li>
-		      <li><a href="https://school.hbh7.com/apcalc.pdf">AP Calc Book</a></li>
-		      <li><a href="http://www.phschool.com/atschool/realidades/pdfs/repaso/LB_Capitulo_8A.pdf">Spanish Book</a></li>
+	  <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
+	  <li><a href="https://www.symbolab.com/">Symbolab</a></li>
+	  <li><a href="https://school.egblip.com/DiscreteMath.pdf">Discrete Math Book</a></li>
+	  <li>Placeholder for UofH Email!</li>
         </ul>
       </div>
       <div class="list right1">
@@ -63,7 +63,7 @@ if ($_GET['run']) {
           <li><a href="https://plex.hbh7.com">Hunterflix</a></li>
           <li><a href="http://www.reddit.com/">Reddit</a></li>
           <li></li>
-		      <li></li>
+	  <li></li>
         </ul>
       </div>
       <div class="list right2">
@@ -72,10 +72,10 @@ if ($_GET['run']) {
           <li><a href="http://patorjk.com/games/snake/">Snake</a></li>
           <li><a href="http://agar.io/">Agar</a></li>
           <li><a href="http://slither.io/">Slither</a></li>
-  		    <li><a href="http://2048game.com/">2048</a></li>
-  		    <li><a href="https://hbh7.com/tetris">Tetris</a></li>
-  		    <li></li>
-		    <li></li>
+	  <li><a href="http://2048game.com/">2048</a></li>
+	  <li><a href="https://hbh7.com/tetris">Tetris</a></li>
+	  <li></li>
+	  <li></li>
         </ul>
       </div>
     </div>
