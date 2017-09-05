@@ -48,12 +48,12 @@ if ($_GET['run']) {
         <h1 id="sidebarLeft2">School</h1>
         <ul>
           <li><a href="http://www.pathwaystotechnology.com/groups.cfm?groupDashboardView=calendar">Pathways Portal</a></li>
-          <li><a href="http://www.pathwaystotechnology.com/page.cfm?p=1">Pathways</a></li>
           <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a></li>
 	  <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
 	  <li><a href="https://www.symbolab.com/">Symbolab</a></li>
-	  <li><a href="https://school.egblip.com/DiscreteMath.pdf">Discrete Math Book</a></li>
-	  <li>Placeholder for UofH Email!</li>
+	  <li><a href="https://my5prod.commnet.edu/">Capital Portal</a></li>
+	  <li><a href="https://school.egblip.com/DiscreteMath.pdf#page=12">Discrete Math Book</a></li>
+	  <li><a https://blackboard.hartford.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1>UHART Blackboard</a></li>
         </ul>
       </div>
       <div class="list right1">
