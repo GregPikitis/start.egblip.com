@@ -53,7 +53,7 @@ if ($_GET['run']) {
 	  <li><a href="https://www.symbolab.com/">Symbolab</a></li>
 	  <li><a href="https://my5prod.commnet.edu/">Capital Portal</a></li>
 	  <li><a href="https://school.egblip.com/DiscreteMath.pdf#page=12">Discrete Math Book</a></li>
-	  <li><a https://blackboard.hartford.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1>UHART Blackboard</a></li>
+	  <li><a href="https://blackboard.hartford.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1">UHART Blackboard</a></li>
         </ul>
       </div>
       <div class="list right1">
