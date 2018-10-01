@@ -47,14 +47,9 @@ if ($_GET['run']) {
       <div class="list left2">
         <h1 id="sidebarLeft2">School</h1>
         <ul>
-          <li><a href="http://www.pathwaystotechnology.com/groups.cfm?groupDashboardView=calendar">Pathways Portal</a></li>
-          <li><a href="https://powerschool.hartfordschools.org/public/home.html">Powerschool</a></li>
 	  <li><a href="https://www.desmos.com/calculator">Desmos</a></li>
 	  <li><a href="https://www.symbolab.com/">Symbolab</a></li>
-	  <li><a href="https://my5prod.commnet.edu/">Capital Portal</a></li>
-	  <li><a href="https://school.egblip.com/DiscreteMath.pdf#page=12">Discrete Math Book</a></li>
 	  <li><a href="https://school.hbh7.com/pdfs">hbh7's School PDFs</a></li>
-	  <li><a href="https://blackboard.hartford.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1">UHART Blackboard</a></li>
         </ul>
       </div>
       <div class="list right1">
@@ -62,7 +57,7 @@ if ($_GET['run']) {
         <ul>
           <li><a href="https://netflix.com/">Netflix</a></li>
           <li><a href="https://plex.hbh7.com">Hunterflix</a></li>
-          <li><a href="http://www.reddit.com/">Reddit</a></li>
+          <li><a href="https://www.reddit.com/">Reddit</a></li>
           <li></li>
 	  <li></li>
         </ul>
@@ -74,7 +69,7 @@ if ($_GET['run']) {
           <li><a href="http://agar.io/">Agar</a></li>
           <li><a href="http://slither.io/">Slither</a></li>
 	  <li><a href="http://2048game.com/">2048</a></li>
-	  <li><a href="https://hbh7.com/tetris">Tetris</a></li>
+	  <li><a href="https://hbh7.com/games">hbh7's Games</a></li>
 	  <li></li>
 	  <li></li>
         </ul>
